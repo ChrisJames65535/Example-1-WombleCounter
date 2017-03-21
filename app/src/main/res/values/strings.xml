@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WombleCounter</string>
+    <string name="activityMain_countWombleButtonLabel">Count a Womble</string>
+    <string name="wombleCountValueFormat">"Wombles Counted: %1$d"</string>
+</resources>
